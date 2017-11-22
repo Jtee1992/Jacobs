@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epic Spies Performance Tracker", "Epic Spies Performance Tracker\Epic Spies Performance Tracker.csproj", "{B2A2385C-7708-44FA-96B3-063CACE57A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A2385C-7708-44FA-96B3-063CACE57A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A2385C-7708-44FA-96B3-063CACE57A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A2385C-7708-44FA-96B3-063CACE57A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A2385C-7708-44FA-96B3-063CACE57A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {231133F7-BE74-4B40-8108-7275476B6EFC}
+	EndGlobalSection
+EndGlobal
