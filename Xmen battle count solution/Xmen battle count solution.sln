@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmen battle count solution", "Xmen battle count solution\Xmen battle count solution.csproj", "{CC96B2E9-BCF4-4185-9656-E398221A9EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC96B2E9-BCF4-4185-9656-E398221A9EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC96B2E9-BCF4-4185-9656-E398221A9EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC96B2E9-BCF4-4185-9656-E398221A9EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC96B2E9-BCF4-4185-9656-E398221A9EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC8134C-14C6-4208-947E-253B823AE80D}
+	EndGlobalSection
+EndGlobal
