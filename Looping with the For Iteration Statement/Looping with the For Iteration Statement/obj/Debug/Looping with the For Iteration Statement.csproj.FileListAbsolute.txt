@@ -1,0 +1,57 @@
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\csc.exe
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\csc.exe.config
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\csc.rsp
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\csi.exe
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\csi.exe.config
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\csi.rsp
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.AppContext.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Console.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.IO.Compression.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.IO.FileSystem.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.IO.Pipes.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Security.AccessControl.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Security.Claims.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Threading.Thread.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.ValueTuple.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Xml.XPath.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\vbc.exe
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\vbc.exe.config
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\vbc.rsp
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\VBCSCompiler.exe
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\Looping with the For Iteration Statement.dll.config
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\Looping with the For Iteration Statement.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\Looping with the For Iteration Statement.pdb
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\obj\Debug\Looping with the For Iteration Statement.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\obj\Debug\Looping with the For Iteration Statement.csproj.CoreCompileInputs.cache
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\obj\Debug\Looping with the For Iteration Statement.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Looping with the For Iteration Statement\Looping with the For Iteration Statement\obj\Debug\Looping with the For Iteration Statement.pdb
