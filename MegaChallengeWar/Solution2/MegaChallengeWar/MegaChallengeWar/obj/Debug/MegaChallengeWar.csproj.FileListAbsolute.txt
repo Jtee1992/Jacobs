@@ -1,0 +1,6 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
